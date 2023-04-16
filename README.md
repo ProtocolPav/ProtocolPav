@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protocolpav&label=Profile%20views&color=d544b5&style=flat" alt="protocolpav" /> </p>
 
-- 🔭 I’m currently working on **thorny**
-
 - 🌱 I’m currently learning **python, docker and more**
 
 <p align="left">
