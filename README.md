@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="164" src="https://media3.giphy.com/media/3og0ILLVvPp8d64Jd6/200w.gif?cid=6c09b952l1cn3wpsp5a0o9rffokc1lgye4p5i9zq6okl0510&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<img align="right" height="164" src="[https://media3.giphy.com/media/3og0ILLVvPp8d64Jd6/200w.gif?cid=6c09b952l1cn3wpsp5a0o9rffokc1lgye4p5i9zq6okl0510&ep=v1_gifs_search&rid=200w.gif&ct=g](https://images-ext-1.discordapp.net/external/-R-MzdcG5NKyoMnGP2QpX6vkymEWAoiqTmprY28xIxE/%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5ZTY5Y2E2LTI0NzEtNDQxMy1iM2Q3LTZkMGQ3ZThkZDY3MlwvZGZvdXhrOS1jNzE5NWFhZi0xM2FhLTQzMjYtYjdhMC0yMDJmNjFjNmY4ZDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7PEFEsU1fAMRDZHASfiioKV250DHDmam5LvpLTV5hM0/https/images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9e69ca6-2471-4413-b3d7-6d0d7e8dd672/dfouxk9-c7195aaf-13aa-4326-b7a0-202f61c6f8d7.gif)"  />
 
 ###
 
