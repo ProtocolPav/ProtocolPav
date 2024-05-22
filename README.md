@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is ProtocolPav and I'm a Software Engineer, from Cyprus.</h1>
+<h1 align="left">Hi 👋! My name is ProtocolPav</h1>
 
 ###
 
