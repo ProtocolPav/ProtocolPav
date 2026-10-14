@@ -4,10 +4,11 @@
 
 ```python
 class Pavel:
-    studies = Southampton(year=1, course="Computer Science")
-    hobby = Everthorn("Core Developer")
+    studies = Southampton(year=2, course="Computer Science")
+    work = Wellthlab(position="Software Engineer Intern", mission="#makeNormalBetter")
+    hobby = Everthorn("Main Developer")
     home = Cyprus("Limassol")
-        
+
     def sleep(self):
         if not self.studies.lecture():
             time.sleep(12 * 60 * 60)
